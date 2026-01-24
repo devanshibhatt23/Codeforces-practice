@@ -1,0 +1,41 @@
+#include <bits/stdc++.h>
+#define ll long long
+#define f(i,s,e) for(int i=s; i<e; i++)
+#define en cout << ans << "\n"
+#define vec vector<int> 
+#define ci cin >> v[i];
+#define s(v) sort(v.begin(), v.end())
+using namespace std;
+
+void solve() {
+    int n;
+    cin >> n;
+
+    vec v(n);
+    f(i,0,n) ci;
+
+    s(v);
+    map<int,int> m;
+
+    f(i,0,n) m[v[i]]++;
+
+    int ans = 0;
+
+    for(auto &i : m) {
+        int ele = i.first;
+
+        if(m.find(ele-1) != m.end()) ans += max(0,m[ele]-m[ele-1]);
+        else ans += m[ele];
+    }
+
+    cout << ans << endl;
+}
+ 
+int main() {
+    int t = 1;
+    cin >> t;
+    
+    while(t--) {
+        solve();
+    }
+}
