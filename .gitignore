@@ -3,3 +3,9 @@
 *.out
 *.app
 *.bin
+
+*.prob
+*.json
+
+.DS_Store
+.vscode/

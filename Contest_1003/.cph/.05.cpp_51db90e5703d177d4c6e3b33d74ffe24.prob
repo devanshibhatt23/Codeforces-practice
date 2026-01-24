@@ -1,1 +1,0 @@
-{"name":"Local: 05","url":"/Users/devanshi/Desktop/cp 31/contest 1003/05.cpp","tests":[{"id":1752309550787,"input":"3\n2 2\n4 4\n6 1\n3 4\n2 2 2 2\n3 2 1 2\n4 1 2 1\n2 3\n3 4 5\n1 1 9\n","output":"41\n162\n72\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/devanshi/Desktop/cp 31/contest 1003/05.cpp","group":"local","local":true}
