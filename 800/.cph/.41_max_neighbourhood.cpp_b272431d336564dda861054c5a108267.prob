@@ -1,0 +1,1 @@
+{"name":"Local: 41_max_neighbourhood","url":"/Users/devanshi/Desktop/cp 31/800/41_max_neighbourhood.cpp","tests":[{"id":1769095384077,"input":"5\n1\n2\n3\n4\n5\n","output":"1\n9\n29\n56\n95\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/devanshi/Desktop/cp 31/800/41_max_neighbourhood.cpp","group":"local","local":true}

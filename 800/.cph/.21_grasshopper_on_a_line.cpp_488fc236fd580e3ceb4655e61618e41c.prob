@@ -1,0 +1,1 @@
+{"name":"Local: 21_grasshopper_on_a_line","url":"/Users/devanshi/Desktop/cp 31/800/21_grasshopper_on_a_line.cpp","tests":[{"id":1752065931841,"input":"8\n10 2\n10 3\n3 4\n1 2\n8 5\n32 31\n18 6\n30 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/devanshi/Desktop/cp 31/800/21_grasshopper_on_a_line.cpp","group":"local","local":true}

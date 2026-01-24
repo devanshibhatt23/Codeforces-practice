@@ -1,0 +1,1 @@
+{"name":"Local: 26_coins","url":"/Users/devanshi/Desktop/cp 31/800/26_coins.cpp","tests":[{"id":1752142311935,"input":"4\n5 3\n6 1\n7 4\n8 8\n","output":"YES\nYES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/devanshi/Desktop/cp 31/800/26_coins.cpp","group":"local","local":true}
