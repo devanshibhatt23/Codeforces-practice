@@ -1,1 +1,0 @@
-{"name":"Local: 08_goals_of_victory","url":"/Users/devanshi/Desktop/cp 31/800/08_goals_of_victory.cpp","tests":[{"id":1751795631537,"input":"2\n4\n3 -4 5\n11\n-30 12 -57 7 0 -81 -68 41 -89 0\n","output":"-4\n265"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/devanshi/Desktop/cp 31/800/08_goals_of_victory.cpp","group":"local","local":true}

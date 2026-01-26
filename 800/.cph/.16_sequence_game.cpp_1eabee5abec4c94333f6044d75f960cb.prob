@@ -1,1 +1,0 @@
-{"name":"Local: 16_sequence_game","url":"/Users/devanshi/Desktop/cp 31/800/16_sequence_game.cpp","tests":[{"id":1751879036024,"input":"6\n3\n4 6 3\n3\n1 2 3\n5\n1 7 9 5 7\n1\n144\n2\n1 1\n5\n1 2 2 1 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/devanshi/Desktop/cp 31/800/16_sequence_game.cpp","group":"local","local":true}

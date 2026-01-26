@@ -1,1 +1,0 @@
-{"name":"Local: 26_strange_partition","url":"/Users/devanshi/Desktop/cp 31/900/26_strange_partition.cpp","tests":[{"id":1754289501631,"input":"2\n3 3\n3 6 9\n3 3\n6 4 11\n","output":"6 6\n7 8\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/devanshi/Desktop/cp 31/900/26_strange_partition.cpp","group":"local","local":true}

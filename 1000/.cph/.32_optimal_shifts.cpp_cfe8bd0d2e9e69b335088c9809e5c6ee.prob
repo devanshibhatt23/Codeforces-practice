@@ -1,1 +1,0 @@
-{"name":"Local: 32_optimal_shifts","url":"/Users/devanshi/Desktop/cp 31/1000/32_optimal_shifts.cpp","tests":[{"id":1768575588821,"input":"5\n1\n1\n3\n101\n4\n0110\n11\n10101010100\n2\n11\n","output":"0\n1\n2\n2\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/devanshi/Desktop/cp 31/1000/32_optimal_shifts.cpp","group":"local","local":true}

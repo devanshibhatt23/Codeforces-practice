@@ -1,1 +1,0 @@
-{"name":"Local: 16_red_vs_blue","url":"/Users/devanshi/Desktop/cp 31/1000/16_red_vs_blue.cpp","tests":[{"id":1759494643398,"input":"6\n3 2 1\n10 6 4\n11 6 5\n10 9 1\n10 8 2\n11 9 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/devanshi/Desktop/cp 31/1000/16_red_vs_blue.cpp","group":"local","local":true}

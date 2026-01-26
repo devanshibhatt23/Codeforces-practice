@@ -1,1 +1,0 @@
-{"name":"Local: 24_numbers_box","url":"/Users/devanshi/Desktop/cp 31/1000/24_numbers_box.cpp","tests":[{"id":1760934988970,"input":"2\n2 2\n-1 1\n1 1\n3 4\n1 -1 -2 -3\n-1 -2 -3 4\n-2 3 -4 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/devanshi/Desktop/cp 31/1000/24_numbers_box.cpp","group":"local","local":true}

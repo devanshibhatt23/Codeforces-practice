@@ -1,1 +1,0 @@
-{"name":"Local: 07_array_merging","url":"/Users/devanshi/Desktop/cp 31/1000/07_array_merging.cpp","tests":[{"id":1755327673061,"input":"1\n6\n2 2 0 2 1 1\n3 2 1 2 1 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/devanshi/Desktop/cp 31/1000/07_array_merging.cpp","group":"local","local":true}
